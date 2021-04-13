@@ -1,0 +1,123 @@
+* {
+  margin: 0;
+  padding: 0;
+}
+
+.row {
+  line-height: 0;
+}
+
+.wall {
+  background-color: blue;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.sushi {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("sushi.png");
+  background-size: contain;
+}
+
+.blank {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+}
+
+.onigiri {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("onigiri.png");
+  background-size: contain;
+}
+
+#red {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("red.gif");
+  background-size: contain;
+  position: absolute;
+  left: 120px;
+  top: 120px;
+}
+
+#bluey {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("bluey.gif");
+  background-size: contain;
+  position: absolute;
+  left: 200px;
+  top: 120px;
+}
+
+#pinky {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("pinky.gif");
+  background-size: contain;
+  position: absolute;
+  left: 120px;
+  top: 200px;
+}
+
+#pumpky {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("pumpky.gif");
+  background-size: contain;
+  position: absolute;
+  left: 200px;
+  top: 200px;
+}
+
+#scaredy {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("scaredy.png");
+  background-size: contain;
+  position: absolute;
+  left: 150px;
+  top: 150px;
+}
+
+#ninjaman {
+  background-color: black;
+  height: 40px;
+  width: 40px;
+  display: inline-block;
+  background-image: url("ninja.gif");
+  background-size: contain;
+  position: absolute;
+  left: 40px;
+  top: 40px;
+}
+
+h2 {
+  background-color: black;
+  color: white;
+  text-align: center;
+  width: 200px;
+  height: 35px;
+  position: absolute;
+  left: 0px;
+  top: 0px;
+}
